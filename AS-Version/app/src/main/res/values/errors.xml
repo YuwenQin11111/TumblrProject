@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="error_canceled">Canceled</string>
+    <string name="error_camera">Error capturing photo. Please try again</string>
+    <string name="error_pick">Error retrieving photo. Please try again</string>
+    
+</resources>
